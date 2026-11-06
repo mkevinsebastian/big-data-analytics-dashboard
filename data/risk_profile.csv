@@ -1,0 +1,24 @@
+factor,segment,transactions,frauds,fraud_rate_pct
+Transaction Amount,< $100,8413,302,3.59
+Transaction Amount,$100 - $500,12872,542,4.21
+Transaction Amount,$500 - $1.000,1964,173,8.81
+Transaction Amount,> $1.000,385,205,53.25
+Account Age,0 - 30 hari (akun baru),2448,563,23.0
+Account Age,31 - 90 hari,3842,112,2.92
+Account Age,91 - 365 hari,17344,547,3.15
+Transaction Hour,Dini hari 00:00-05:59,6331,700,11.06
+Transaction Hour,Pagi 06:00-11:59,5772,175,3.03
+Transaction Hour,Siang/Sore 12:00-17:59,5789,171,2.95
+Transaction Hour,Malam 18:00-23:59,5742,176,3.07
+Payment Method,PayPal,5899,310,5.26
+Payment Method,bank transfer,5860,326,5.56
+Payment Method,credit card,5923,301,5.08
+Payment Method,debit card,5952,285,4.79
+Device Used,desktop,7923,406,5.12
+Device Used,mobile,7881,429,5.44
+Device Used,tablet,7830,387,4.94
+Address Mismatch,Shipping != Billing,2342,125,5.34
+Address Mismatch,Shipping == Billing,21292,1097,5.15
+Kombinasi Risiko,Tidak ada faktor risiko,15498,227,1.46
+Kombinasi Risiko,Minimal 1 faktor,8136,995,12.23
+Kombinasi Risiko,Ketiga faktor sekaligus,52,49,94.23

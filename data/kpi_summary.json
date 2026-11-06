@@ -1,0 +1,13 @@
+{
+  "total_transactions": 23634,
+  "fraud_count": 1222,
+  "fraud_rate_pct": 5.17,
+  "imbalance_ratio": 18.34,
+  "test_transactions": 4727,
+  "test_frauds": 244,
+  "avg_fraud_amount": 562.08,
+  "avg_legit_amount": 211.23,
+  "network_sample_size": 1500,
+  "network_sample_frauds": 503,
+  "network_sample_fraud_rate_pct": 33.53
+}

@@ -1,0 +1,4 @@
+# Only needed to regenerate ./data with scripts/build_data.py (NOT needed to run or deploy the dashboard)
+-r requirements.txt
+xgboost>=2.0
+networkx>=3.0

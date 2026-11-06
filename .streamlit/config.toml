@@ -1,0 +1,9 @@
+[theme]
+# No `base` on purpose: the app follows the viewer's light/dark preference (switchable under Settings > Theme).
+primaryColor = "#6366F1"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

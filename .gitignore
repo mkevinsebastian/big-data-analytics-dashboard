@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+# raw dataset is NOT part of this repo (only the slim, PII-free artefacts in data/ are)
+*.docx
+*.pptx
+Fraudulent_E-Commerce_Transaction_Data*.csv
